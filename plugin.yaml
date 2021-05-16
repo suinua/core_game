@@ -1,0 +1,4 @@
+name: core_pvp
+main: core_pvp\Main
+version: 1.0.0
+api: [3.0.0]
